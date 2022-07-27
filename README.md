@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
@@ -8,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniela rodríguez robles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniela rodríguez robles" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniela-rodríguez-robles-33a958191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniela-rodríguez-robles-33a958191" height="30" width="40" /></a>
 <a href="https://instagram.com/dannyrodrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dannyrodrz" height="30" width="40" /></a>
 </p>
 
@@ -18,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrdaniela&show_icons=true&locale=en&layout=compact" alt="rrdaniela" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rrdaniela&show_icons=true&locale=en" alt="rrdaniela" /></p>
-
