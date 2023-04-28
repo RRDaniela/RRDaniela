@@ -6,8 +6,4 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=RRDaniela&style=flat-square&color=blue" alt=""/>
-<h3>
-  Hello! I'm Danny. 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
 </div>
